@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aa94cc7-b71e-4907-a3da-6a41a7f35678" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.7/fileChanges/last-build.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.7/fileHashes/fileHashes.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.7/taskHistory/taskHistory.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/bluetooth_main.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/bluetooth_test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/362e432df343a7f39176282555ca59d442c6f052" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/72663d06bead658fe2d3f510e69a9113d7b4e778" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/980ab1fbac4946cc36a660e5aaca5384aa889252" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aaa8412088270854b81314d25562313f2e719af7" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bluetooth.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/common/bluetooth/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/common/bluetooth/model/Device.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/common/bluetooth/service/BluetoothUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/common/bluetooth/util/CommandExecutor.java" />
-    </list>
+    <list default="true" id="2aa94cc7-b71e-4907-a3da-6a41a7f35678" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -166,8 +128,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="165" column="0" lean-forward="true" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+            <state relative-caret-position="246">
+              <caret line="59" column="5" lean-forward="false" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -203,6 +165,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>idea</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -855,12 +822,12 @@
       <updated>1531223112667</updated>
       <workItem from="1531223114051" duration="1278000" />
       <workItem from="1531228612281" duration="388000" />
-      <workItem from="1531343959688" duration="1110000" />
+      <workItem from="1531343959688" duration="1270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2776000" />
+    <option name="totallyTimeSpent" value="2936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="6" />
@@ -995,8 +962,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="165" column="0" lean-forward="true" selection-start-line="165" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
+        <state relative-caret-position="246">
+          <caret line="59" column="5" lean-forward="false" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="5" />
           <folding />
         </state>
       </provider>
